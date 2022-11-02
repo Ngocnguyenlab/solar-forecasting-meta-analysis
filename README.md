@@ -14,9 +14,9 @@ A meta analysis of solar forecasting based on skill score
     <li><a href="#Methodology">Methodology</a></li></li>
     <li><a href="#Database">Database</a></li></li>
     <li><a href="#Findings">Findings</a></li></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
     <li><a href="#citing-us">Citing us</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -87,12 +87,6 @@ o	Regarding the inter-model comparison, ensemble–hybrid models achieve the mos
 
   <p align="center">
 
-<!-- CONTACT -->
-## Contact
-
-Thi Ngoc Nguyen (nguyen@b-tu.de)
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
@@ -104,5 +98,10 @@ This work has been realized in the framework of the public research project FOCC
 To cite the database: Thi Ngoc Nguyen, & Felix Müsgens. (2022). A database of skill scores on solar forecasting [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7274381
 
 To cite our findings: Nguyen, T.N. and Müsgens, F., 2022. A Meta-Analysis of Solar Forecasting Based on Skill Score. arXiv preprint arXiv:2208.10536. https://doi.org/10.48550/arXiv.2208.10536
+  
+<!-- CONTACT -->
+## Contact
+
+Thi Ngoc Nguyen (nguyen@b-tu.de)
 
 
