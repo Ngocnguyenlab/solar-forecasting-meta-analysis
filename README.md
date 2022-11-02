@@ -15,8 +15,8 @@ A meta analysis of solar forecasting based on skill score
     <li><a href="#Database">Database</a></li></li>
     <li><a href="#Findings">Findings</a></li></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#citing-us">Citing us</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#citing-us">Citing us</a></li>
   </ol>
 </details>
 
@@ -63,6 +63,7 @@ The database covers 34 countries, over 200 regions, and a variety of climate con
 •	Distinct interactions of variables are observed for each forecast horizon class, i.e., what works for intra-hour does not necessarily work for day-ahead. Therefore, the analysis of the forecast should be done separately for each forecast horizon.
 •	There has been a substantial improvement in solar forecast accuracy, especially in recent years. More improvement is observed for intra-hour and intra-day than day-ahead forecasts.
 •	Based on the MARS and PDP analysis, a follow-up linear regression is conducted to quantify the marginal impact of important variables on skill score. Findings are:
+  
 o	Location-related variables such as climate zones show statistically significant correlation with SS. Hence, the relative measurement approach of SS is not sufficient to allow a direct comparison of forecasts. A meta-analysis that can account for different effects is important for knowledge transfer between regions.
 o	Skill score shows positive correlation with horizon for intra-hour and intra-day forecasts, which is contradictory with the previous results for other error metrics. This comes from the relative measurement of skill score, which depends on not only the absolute error values of forecasts but also the reference model. 
 o	Input usage should consider horizon class. For intra-hour, historical data and spatial temporal information of power system and its neighbours are highly helpful. For intra-day, sky and satellite images show the most important role, which can be combined with any other inputs. For day-ahead, NWP variables and locally measured meteorological data are very efficient.
@@ -97,7 +98,7 @@ Thi Ngoc Nguyen (nguyen@b-tu.de)
 
 This work has been realized in the framework of the public research project FOCCSI (Forecast Optimization by Correction and Combination methods for System Integration; 03ET4056) funded by the German Federal Ministry for Economic Affairs and Energy. 
 
-
+<!-- CITING US -->
 ## Citing us
 
 To cite the database: Thi Ngoc Nguyen, & Felix Müsgens. (2022). A database of skill scores on solar forecasting [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7274381
