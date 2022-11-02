@@ -42,11 +42,11 @@ An exhaustive search for literature was conducted. Then the literature was scree
 
   <p align="center">
  
- The database was analyzed using statistical methods such as multivariate adaptive regression spline modelling, partial dependence plots, and linear regression.
+ The database was analyzed using statistical methods such as multivariate adaptive regression spline modelling, partial dependence plots, and linear regression. R, Python, Alteryx, and Tableau were used.
 
   <!-- DATABASE -->
 ## An overview of the database
-The database covers 34 countries, over 200 regions, and a variety of climate conditions. More than a half the data are from the USA, followed by France, India, Spain, and Italy (panel b).
+The database covers 34 countries, over 200 regions, and a variety of climate conditions. More than a half the data are from the USA, followed by France, India, Spain, and Italy (panel b). The database used for our analysis can be found in the "data_used_for_analysis.csv" file. A larger database that includes additional variables is also publicly available in Zenodo (https://doi.org/10.5281/zenodo.7274381).
 
 <!-- Teaser Image 2 -->
 <br />
